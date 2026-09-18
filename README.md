@@ -1,18 +1,8 @@
-# Niceone Obsidian
+<h1 align="center">Hi, I'm Niceone Obsidian 👋</h1>
 
-<p align="center">
-  <strong>AI Systems Architect · OIS Builder · Automation Engineer</strong><br>
-  Building governed AI systems that turn objectives into controlled, measurable, repeatable outcomes.
-</p>
+<p align="center"><strong>Senior Software Architect · Technical Lead · AI Systems Builder</strong><br>Designing governed AI systems that turn objectives into controlled, measurable, repeatable outcomes.</p>
 
-<p align="center">
-  <a href="https://github.com/niceoneobsidian/niceone-obsidian">
-    <img src="https://img.shields.io/badge/OIS-Obsidian%20Intelligence%20System-111827?style=for-the-badge&logo=github" alt="OIS">
-  </a>
-  <a href="https://github.com/niceoneobsidian">
-    <img src="https://img.shields.io/badge/GitHub-niceoneobsidian-181717?style=for-the-badge&logo=github" alt="GitHub">
-  </a>
-</p>
+<p align="center"><a href="https://github.com/niceoneobsidian"><img src="https://img.shields.io/badge/GitHub-niceoneobsidian-181717?style=for-the-badge&logo=github" alt="GitHub"></a> <a href="https://github.com/niceoneobsidian/niceone-obsidian"><img src="https://img.shields.io/badge/Featured-OIS%20Obsidian%20Intelligence%20System-111827?style=for-the-badge&logo=python" alt="OIS"></a></p>
 
 ---
 
@@ -22,53 +12,15 @@
 
 > A capability-driven AI intelligence and execution system designed to turn objectives into controlled, measurable, repeatable outcomes.
 
-OIS connects:
-
 **Cognition → Policy → Capabilities → Agents → Tools → Models → Execution → Validation → Recovery → Evidence → Measurement → Learning → Controlled Evolution**
 
-The operating loop is:
+The operating loop is: **Think → Verify → Authorize → Act → Validate → Measure → Learn → Evolve**
 
-**Think → Verify → Authorize → Act → Validate → Measure → Learn → Evolve**
-
-[**Explore OIS →**](https://github.com/niceoneobsidian/niceone-obsidian)
+[Explore OIS →](https://github.com/niceoneobsidian/niceone-obsidian)
 
 ---
 
-## 🏗️ OIS at a Glance
-
-```text
-                           NICEONE
-                              │
-                       OIS CONTROL PLANE
-                              │
-             ┌────────────────┼────────────────┐
-             │                │                │
-          Knowledge        Cognition       Governance
-             │                │                │
-             └────────────────┼────────────────┘
-                              │
-                         OIS KERNEL
-                              │
-             ┌────────────────┼────────────────┐
-             │                │                │
-        Capabilities        Agents           Tools
-             │                │                │
-             └────────────────┼────────────────┘
-                              │
-                         Execution
-                              │
-                      Validation / Recovery
-                              │
-                    Evidence / Measurement
-                              │
-                    Learning / Evolution
-```
-
----
-
-## ⚙️ Engineering Philosophy
-
-I build AI systems around explicit execution boundaries rather than treating model output as authority.
+## 📊 OIS at a Glance
 
 ```text
 OBJECTIVE
@@ -84,15 +36,19 @@ CAPABILITY ROUTING
 EXECUTION
    ↓
 VALIDATION
-   ├── PASS → EVIDENCE → MEASUREMENT
-   └── FAIL → RECOVERY → REPLAN
-                         ↓
-                      LEARNING
-                         ↓
-                 CONTROLLED EVOLUTION
+   ↓
+EVIDENCE / MEASUREMENT
+   ↓
+FAILURE RECOVERY
+   ↓
+LEARNING / CONTROLLED EVOLUTION
 ```
 
-### Core principles
+---
+
+## 🏗️ Engineering Philosophy
+
+I build AI systems around explicit execution boundaries rather than treating model output as authority.
 
 - **Reasoning is not authorization**
 - **Architecture is not implementation**
@@ -104,65 +60,48 @@ VALIDATION
 
 ---
 
-## 🚀 Current Focus
+## 🔬 Current Focus
 
 | Area | Focus |
-|---|---|
-| 🧠 OIS Kernel | Stateful execution, contracts, planning, orchestration |
-| 🛡️ Control Plane | Policy, authorization, routing and lifecycle governance |
-| 🧩 Capability Fabric | Capability, agent, tool and workflow registries |
-| 🔧 Runtime | Durable execution, checkpoints and recovery |
-| ✅ Validation | Outcome verification and evidence |
-| 📊 Observability | Telemetry, traces, metrics and execution evidence |
-| 🧬 Knowledge | Context, memory, retrieval and semantic state |
-| 🔄 Evolution | Measurement, learning, evaluation, promotion and rollback |
-| 📱 Social Intelligence | Content intelligence, growth systems and experimentation |
+| --- | --- |
+| 🧠 OIS Kernel | Stateful execution, contracts, planning, and orchestration |
+| 🛡️ Control Plane | Policy, authorization, routing, and lifecycle governance |
+| 🧩 Capability Fabric | Capability, agent, tool, and workflow registries |
+| ⚙️ Runtime | Durable execution, checkpoints, idempotency, and recovery |
+| ✅ Validation | Outcome verification and append-only execution evidence |
+| 📈 Observability | Telemetry, traces, metrics, and operational evidence |
+| 🗃️ Knowledge | Context, memory, retrieval, and semantic state |
+| ♻️ Evolution | Measurement, evaluation, promotion, and rollback |
+| 📣 Social Intelligence | Content intelligence, growth systems, and experimentation |
 
 ---
 
-## 📌 Featured Work
+## 🚀 Featured Work
 
-### 🧠 [OIS — Obsidian Intelligence System](https://github.com/niceoneobsidian/niceone-obsidian)
+### [OIS — Obsidian Intelligence System](https://github.com/niceoneobsidian/niceone-obsidian)
 
 **Governed, stateful, capability-driven AI execution and intelligence platform.**
 
-The flagship project is being developed around a strict evidence model:
+Current engineering themes include:
 
-```text
-UNKNOWN
-  ↓
-DESIGNED
-  ↓
-IMPLEMENTED
-  ↓
-TESTED
-  ↓
-INTEGRATED
-  ↓
-DEPLOYED
-  ↓
-ACTIVATED
-  ↓
-PRODUCTION VERIFIED
-```
+- Explicit execution state transitions
+- Durable PostgreSQL-backed execution state
+- Idempotency protection
+- Append-only evidence and database safeguards
+- Bounded retry and recovery decisions
+- Migration validation and integration testing
+- Conformance tests for recovery and governance
+- Ruff, Mypy, Bandit, and pytest quality gates
 
-The repository is the source of truth for what is actually implemented.
+The repository is the source of truth for what is implemented today.
 
 ---
 
-## 📊 GitHub Activity
+## 📈 GitHub Activity
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=niceoneobsidian&show_icons=true&hide_border=true&rank_icon=github" alt="GitHub statistics">
-</p>
+<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=niceoneobsidian&show_icons=true&hide_border=true&rank_icon=github&theme=github_dark" alt="GitHub statistics" height=165> <img src="https://github-readme-streak-stats.herokuapp.com/?user=niceoneobsidian&hide_border=true&theme=github-dark-blue" alt="Contribution streak" height=165></p>
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=niceoneobsidian&hide_border=true" alt="GitHub contribution streak">
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=niceoneobsidian&theme=github-compact&hide_border=true" alt="GitHub activity graph">
-</p>
+<p align="center"><img src="https://github-readme-activity-graph.vercel.app/graph?username=niceoneobsidian&theme=github-compact&hide_border=true&area=true" alt="GitHub activity graph" width=90%></p>
 
 ---
 
@@ -170,27 +109,15 @@ The repository is the source of truth for what is actually implemented.
 
 ### Languages & Runtime
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
-![Bash](https://img.shields.io/badge/Bash-121011?style=flat-square&logo=gnubash&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-336791?style=flat-square&logo=postgresql&logoColor=white) ![Bash](https://img.shields.io/badge/Bash-121011?style=flat-square&logo=gnubash&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 
-### Data & Infrastructure
+### Data, Infrastructure & Quality
 
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=flat-square&logo=supabase&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
-
-### Knowledge & Workflow
-
-![Obsidian](https://img.shields.io/badge/Obsidian-483699?style=flat-square&logo=obsidian&logoColor=white)
-![Notion](https://img.shields.io/badge/Notion-000000?style=flat-square&logo=notion&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white) ![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) ![OpenTelemetry](https://img.shields.io/badge/OpenTelemetry-000000?style=flat-square&logo=opentelemetry&logoColor=white) ![Pytest](https://img.shields.io/badge/Pytest-0A9EDC?style=flat-square&logo=pytest&logoColor=white) ![Ruff](https://img.shields.io/badge/Ruff-D7FF64?style=flat-square&logo=ruff&logoColor=black) ![Mypy](https://img.shields.io/badge/Mypy-1674B1?style=flat-square&logo=python&logoColor=white)
 
 ---
 
-## 🔬 Research & Systems I Explore
+## 🔭 Research & Systems I Explore
 
 - Agentic AI architectures
 - Capability-driven systems
@@ -199,7 +126,6 @@ The repository is the source of truth for what is actually implemented.
 - Evaluation and verification
 - Observability and measurement
 - Social intelligence and growth systems
-- AI content intelligence
 - Controlled AI system evolution
 - Developer tooling and automation
 
@@ -207,26 +133,12 @@ The repository is the source of truth for what is actually implemented.
 
 ## 🤝 Collaboration
 
-Interested in:
-
-- AI infrastructure
-- Agent and execution systems
-- Automation
-- Developer tooling
-- Intelligence systems
-- Open-source AI
-- Reliable and governed AI execution
+Interested in AI infrastructure, agent and execution systems, automation, developer tooling, reliable and observable AI, governance, authorization, and open-source AI systems.
 
 ---
 
 ## 🔗 Connect
 
-<p align="center">
-  <a href="https://github.com/niceoneobsidian">
-    <img src="https://img.shields.io/badge/GitHub-niceoneobsidian-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
-  </a>
-</p>
+<p align="center"><a href="https://github.com/niceoneobsidian"><img src="https://img.shields.io/badge/GitHub-niceoneobsidian-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a> <a href="https://x.com/NiceoneObsidian"><img src="https://img.shields.io/badge/X-@NiceoneObsidian-000000?style=for-the-badge&logo=x&logoColor=white" alt="X"></a></p>
 
-<p align="center">
-  <sub>Think deeply · Verify everything · Authorize before acting · Execute precisely · Validate outcomes · Learn from evidence</sub>
-</p>
+<p align="center"><sub>Think deeply · Verify everything · Authorize before acting · Execute precisely · Validate outcomes · Learn from evidence</sub></p>

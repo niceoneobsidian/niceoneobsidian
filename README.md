@@ -97,6 +97,12 @@ The repository is the source of truth for what is implemented today.
 
 ---
 
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1100&center=true&vCenter=true&width=760&lines=Building+OIS+%E2%80%94+Obsidian+Intelligence+System;AI+Execution+%7C+Governance+%7C+Validation+%7C+Recovery;Think+%E2%86%92+Verify+%E2%86%92+Authorize+%E2%86%92+Act+%E2%86%92+Validate;Measure+%E2%86%92+Learn+%E2%86%92+Evolve" alt="Animated OIS typing banner">
+  </a>
+</p>
+
 ## 📈 GitHub Activity
 
 <p align="center"><img src="https://github-readme-stats.vercel.app/api?username=niceoneobsidian&show_icons=true&hide_border=true&rank_icon=github&theme=github_dark" alt="GitHub statistics" height=165> <img src="https://github-readme-streak-stats.herokuapp.com/?user=niceoneobsidian&hide_border=true&theme=github-dark-blue" alt="Contribution streak" height=165></p>
@@ -142,3 +148,16 @@ Interested in AI infrastructure, agent and execution systems, automation, develo
 <p align="center"><a href="https://github.com/niceoneobsidian"><img src="https://img.shields.io/badge/GitHub-niceoneobsidian-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a> <a href="https://x.com/NiceoneObsidian"><img src="https://img.shields.io/badge/X-@NiceoneObsidian-000000?style=for-the-badge&logo=x&logoColor=white" alt="X"></a></p>
 
 <p align="center"><sub>Think deeply · Verify everything · Authorize before acting · Execute precisely · Validate outcomes · Learn from evidence</sub></p>
+
+
+---
+
+## 🐍 Contribution Snake
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/niceoneobsidian/niceoneobsidian/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/niceoneobsidian/niceoneobsidian/output/github-contribution-grid-snake.svg">
+    <img src="https://raw.githubusercontent.com/niceoneobsidian/niceoneobsidian/output/github-contribution-grid-snake.svg" alt="Animated GitHub contribution snake" width="100%">
+  </picture>
+</p>

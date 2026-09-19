@@ -4,10 +4,11 @@
   <img src="https://komarev.com/ghpvc/?username=niceoneobsidian&style=for-the-badge&color=0e75b6&label=PROFILE+VIEWS" alt="Profile views">
 </p>
 
-<h1 align="center">AI Systems Architect · Automation Engineer · Open-Source Builder</h1>
+<h1 align="center">Software Developer · AI Systems Architect · Automation Engineer</h1>
 
 <p align="center">
-  Building governed AI systems that turn objectives into controlled, measurable, repeatable outcomes.
+  Building reliable, governed AI systems that turn objectives into controlled, measurable, repeatable outcomes.<br>
+  <b>Think deeply · Architect clearly · Build reliably.</b>
 </p>
 
 <p align="center">
@@ -39,6 +40,16 @@
     <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=22&pause=1100&duration=2600&center=true&vCenter=true&width=820&height=45&repeat=true&color=58A6FF&lines=Building+OIS+%E2%80%94+Obsidian+Intelligence+System;AI+Execution+%7C+Governance+%7C+Validation+%7C+Recovery;Think+%E2%86%92+Verify+%E2%86%92+Authorize+%E2%86%92+Act;Measure+%E2%86%92+Learn+%E2%86%92+Evolve" alt="Animated OIS typing banner">
   </a>
 </p>
+
+## 👋 About Me
+
+I am a **Software Developer, AI Systems Architect, and Automation Engineer** focused on building reliable intelligent systems.
+
+My work sits at the intersection of **AI agents, system architecture, automation, durable execution, verification, and production engineering**. I learn by building real systems, testing assumptions, and turning architecture into working software.
+
+> **Think deeply · Architect clearly · Build reliably.**
+
+---
 
 ## 🧠 What I'm Building
 

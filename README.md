@@ -74,9 +74,7 @@
 </p>
 
 <div align="center">
-  <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=niceoneobsidian&bg_color=00000000&color=8B949E&line=58A6FF&point=FFFFFF&hide_border=true&area=true&area_color=58A6FF" alt="GitHub activity graph" width="96%">
-  </a>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=niceoneobsidian&theme=github-compact&hide_border=true&area=true" alt="GitHub activity graph" width="96%">
 </div>
 
 ---

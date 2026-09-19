@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="260" viewBox="0 0 900 260" role="img" aria-labelledby="title desc">
+<title id="title">OIS animated system conversation</title>
+<desc id="desc">An animated sequence showing Think, Verify, Authorize, Act, Validate, Measure, Learn and Evolve.</desc>
+<style>
+  :root { color-scheme: light dark; }
+  .panel { fill:#0d1117; stroke:#30363d; stroke-width:2; }
+  .bubble { fill:#161b22; stroke:#30363d; }
+  .accent { fill:#58a6ff; }
+  .text { fill:#e6edf3; font:600 18px ui-monospace,SFMono-Regular,Menlo,Monaco,Consolas,monospace; }
+  .muted { fill:#8b949e; font:500 14px ui-monospace,SFMono-Regular,Menlo,Monaco,Consolas,monospace; }
+  .m1,.m2,.m3,.m4 { opacity:0; }
+  .m1{animation:show 12s infinite 0s}.m2{animation:show 12s infinite 3s}.m3{animation:show 12s infinite 6s}.m4{animation:show 12s infinite 9s}
+  .cursor{animation:blink 1s steps(1) infinite}
+  @keyframes show{0%,8%{opacity:0;transform:translateY(8px)}12%,23%{opacity:1;transform:translateY(0)}27%,100%{opacity:0;transform:translateY(-4px)}}
+  @keyframes blink{50%{opacity:0}}
+</style>
+<rect x="1" y="1" width="898" height="258" rx="22" class="panel"/>
+<circle cx="28" cy="28" r="6" fill="#ff5f56"/><circle cx="48" cy="28" r="6" fill="#ffbd2e"/><circle cx="68" cy="28" r="6" fill="#27c93f"/>
+<text x="95" y="34" class="muted">niceone • OIS runtime</text>
+
+<g class="m1"><rect x="55" y="70" width="790" height="48" rx="14" class="bubble"/><text x="78" y="100" class="text">THINK → define objective, scope &amp; risk<span class="cursor">_</span></text></g>
+<g class="m2"><rect x="55" y="70" width="790" height="48" rx="14" class="bubble"/><text x="78" y="100" class="text">VERIFY → retrieve evidence &amp; validate assumptions<span class="cursor">_</span></text></g>
+<g class="m3"><rect x="55" y="70" width="790" height="48" rx="14" class="bubble"/><text x="78" y="100" class="text">AUTHORIZE → policy gate before capability execution<span class="cursor">_</span></text></g>
+<g class="m4"><rect x="55" y="70" width="790" height="48" rx="14" class="bubble"/><text x="78" y="100" class="text">ACT → VALIDATE → MEASURE → LEARN → EVOLVE<span class="cursor">_</span></text></g>
+
+<text x="55" y="162" class="muted">capabilities • agents • tools • models • workflows</text>
+<text x="55" y="190" class="muted">stateful execution • recovery • evidence • observability</text>
+<text x="55" y="218" class="accent" style="font:700 16px ui-monospace,SFMono-Regular,Menlo,Monaco,Consolas,monospace">Obsidian Intelligence System</text>
+</svg>

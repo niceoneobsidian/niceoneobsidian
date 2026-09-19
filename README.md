@@ -111,96 +111,62 @@ I build AI systems around explicit execution boundaries rather than treating mod
 
 ## 🧰 Technology Stack
 
-### 💻 Languages
-
-<p align="center">
-  <img src="https://techstack-generator.vercel.app/python-icon.svg" width="80" height="80" alt="Python">
-  <img src="https://techstack-generator.vercel.app/js-icon.svg" width="80" height="80" alt="JavaScript">
-  <img src="https://techstack-generator.vercel.app/ts-icon.svg" width="80" height="80" alt="TypeScript">
-  <img src="https://skillicons.dev/icons?i=bash&theme=dark" width="80" height="80" alt="Bash">
-</p>
-
-<p align="center">
-  <b>Python</b>&nbsp;&nbsp;&nbsp;&nbsp;
-  <b>JavaScript</b>&nbsp;&nbsp;&nbsp;&nbsp;
-  <b>TypeScript</b>&nbsp;&nbsp;&nbsp;&nbsp;
-  <b>Bash</b>
-</p>
-
-### ⚡ Runtime & Application
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=nodejs,react,graphql,selenium&theme=dark&perline=4" height="80" alt="Runtime and application technologies">
-</p>
-
-<p align="center">
-  <b>Node.js</b>&nbsp;&nbsp;&nbsp;&nbsp;
-  <b>React</b>&nbsp;&nbsp;&nbsp;&nbsp;
-  <b>GraphQL</b>&nbsp;&nbsp;&nbsp;&nbsp;
-  <b>Selenium</b>
-</p>
-
-### 🗄️ Data & Backend
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=postgres,redis,supabase&theme=dark&perline=3" height="80" alt="Data and backend technologies">
-</p>
-
-<p align="center">
-  <b>PostgreSQL</b>&nbsp;&nbsp;&nbsp;&nbsp;
-  <b>Redis</b>&nbsp;&nbsp;&nbsp;&nbsp;
-  <b>Supabase</b>
-</p>
-
-### ☁️ Infrastructure & DevOps
-
-<p align="center">
-  <img src="https://techstack-generator.vercel.app/docker-icon.svg" width="80" height="80" alt="Docker">
-  <img src="https://techstack-generator.vercel.app/github-icon.svg" width="80" height="80" alt="GitHub">
-  <img src="https://techstack-generator.vercel.app/aws-icon.svg" width="80" height="80" alt="AWS">
-  <img src="https://skillicons.dev/icons?i=githubactions,linux&theme=dark&perline=2" height="80" alt="GitHub Actions and Linux">
-</p>
-
-<p align="center">
-  <b>Docker</b>&nbsp;&nbsp;&nbsp;&nbsp;
-  <b>GitHub</b>&nbsp;&nbsp;&nbsp;&nbsp;
-  <b>AWS</b>&nbsp;&nbsp;&nbsp;&nbsp;
-  <b>GitHub Actions</b>&nbsp;&nbsp;&nbsp;&nbsp;
-  <b>Linux</b>
-</p>
-
-### 🛠️ Developer Environment
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=git,neovim,figma,vscode&theme=dark&perline=4" height="80" alt="Developer environment">
-</p>
-
-<p align="center">
-  <b>Git</b>&nbsp;&nbsp;&nbsp;&nbsp;
-  <b>Neovim</b>&nbsp;&nbsp;&nbsp;&nbsp;
-  <b>Figma</b>&nbsp;&nbsp;&nbsp;&nbsp;
-  <b>VS Code</b>
-</p>
-
-### 🧠 AI, Knowledge & Workflow
-
 <table align="center">
   <tr>
-    <td align="center" width="150">
-      <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" height="40" alt="OpenAI">
-      <br><sub><b>OpenAI</b></sub>
+    <th>💻 Languages</th>
+    <th>⚡ Runtime & Application</th>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="https://techstack-generator.vercel.app/python-icon.svg" width="70" height="70" alt="Python">
+      <img src="https://techstack-generator.vercel.app/js-icon.svg" width="70" height="70" alt="JavaScript">
+      <img src="https://techstack-generator.vercel.app/ts-icon.svg" width="70" height="70" alt="TypeScript">
+      <img src="https://skillicons.dev/icons?i=bash&theme=dark" width="70" height="70" alt="Bash">
+      <br><br>
+      <b>Python · JavaScript · TypeScript · Bash</b>
     </td>
-    <td align="center" width="150">
-      <img src="https://skillicons.dev/icons?i=obsidian&theme=dark" height="60" alt="Obsidian">
-      <br><sub><b>Obsidian</b></sub>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=nodejs,react,graphql,selenium&theme=dark&perline=4" height="70" alt="Node.js, React, GraphQL, Selenium">
+      <br><br>
+      <b>Node.js · React · GraphQL · Selenium</b>
     </td>
-    <td align="center" width="150">
-      <img src="https://skillicons.dev/icons?i=notion&theme=dark" height="60" alt="Notion">
-      <br><sub><b>Notion</b></sub>
+  </tr>
+  <tr>
+    <th>🗄️ Data & Backend</th>
+    <th>☁️ Infrastructure & DevOps</th>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=postgres,redis,supabase&theme=dark&perline=3" height="70" alt="PostgreSQL, Redis, Supabase">
+      <br><br>
+      <b>PostgreSQL · Redis · Supabase</b>
     </td>
-    <td align="center" width="150">
-      <img src="https://img.shields.io/badge/Termux-000000?style=for-the-badge&logo=termux&logoColor=white" height="40" alt="Termux">
-      <br><sub><b>Termux</b></sub>
+    <td align="center">
+      <img src="https://techstack-generator.vercel.app/docker-icon.svg" width="70" height="70" alt="Docker">
+      <img src="https://techstack-generator.vercel.app/github-icon.svg" width="70" height="70" alt="GitHub">
+      <img src="https://techstack-generator.vercel.app/aws-icon.svg" width="70" height="70" alt="AWS">
+      <img src="https://skillicons.dev/icons?i=githubactions,linux&theme=dark&perline=2" height="70" alt="GitHub Actions, Linux">
+      <br><br>
+      <b>Docker · GitHub · AWS · GitHub Actions · Linux</b>
+    </td>
+  </tr>
+  <tr>
+    <th>🛠️ Developer Environment</th>
+    <th>🧠 AI, Knowledge & Workflow</th>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=git,neovim,figma,vscode&theme=dark&perline=4" height="70" alt="Git, Neovim, Figma, VS Code">
+      <br><br>
+      <b>Git · Neovim · Figma · VS Code</b>
+    </td>
+    <td align="center">
+      <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" height="36" alt="OpenAI">
+      <img src="https://skillicons.dev/icons?i=obsidian&theme=dark" height="55" alt="Obsidian">
+      <img src="https://skillicons.dev/icons?i=notion&theme=dark" height="55" alt="Notion">
+      <img src="https://img.shields.io/badge/Termux-000000?style=for-the-badge&logo=termux&logoColor=white" height="36" alt="Termux">
+      <br><br>
+      <b>OpenAI · Obsidian · Notion · Termux</b>
     </td>
   </tr>
 </table>

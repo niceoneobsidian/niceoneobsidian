@@ -184,19 +184,26 @@ I build AI systems around explicit execution boundaries rather than treating mod
 
 ### 🧠 AI, Knowledge & Workflow
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=obsidian,notion&theme=dark&perline=2" height="80" alt="Obsidian and Notion">
-  <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" height="40" alt="OpenAI">
-  <img src="https://img.shields.io/badge/Termux-000000?style=for-the-badge&logo=termux&logoColor=white" height="40" alt="Termux">
-</p>
-
-<p align="center">
-  <b>OpenAI</b>&nbsp;&nbsp;&nbsp;&nbsp;
-  <b>Obsidian</b>&nbsp;&nbsp;&nbsp;&nbsp;
-  <b>Notion</b>&nbsp;&nbsp;&nbsp;&nbsp;
-  <b>Termux</b>
-</p>
-
+<table align="center">
+  <tr>
+    <td align="center" width="150">
+      <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" height="40" alt="OpenAI">
+      <br><sub><b>OpenAI</b></sub>
+    </td>
+    <td align="center" width="150">
+      <img src="https://skillicons.dev/icons?i=obsidian&theme=dark" height="60" alt="Obsidian">
+      <br><sub><b>Obsidian</b></sub>
+    </td>
+    <td align="center" width="150">
+      <img src="https://skillicons.dev/icons?i=notion&theme=dark" height="60" alt="Notion">
+      <br><sub><b>Notion</b></sub>
+    </td>
+    <td align="center" width="150">
+      <img src="https://img.shields.io/badge/Termux-000000?style=for-the-badge&logo=termux&logoColor=white" height="40" alt="Termux">
+      <br><sub><b>Termux</b></sub>
+    </td>
+  </tr>
+</table>
 ---
 
 ## 🚀 Featured Work

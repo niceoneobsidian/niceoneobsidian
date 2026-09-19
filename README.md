@@ -74,7 +74,7 @@
 </p>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=niceoneobsidian&theme=github-compact&hide_border=true&area=true" alt="GitHub activity graph" width="96%">
+  <img src="https://raw.githubusercontent.com/niceoneobsidian/niceoneobsidian/output/activity-graph.svg" alt="GitHub activity graph" width="96%">
 </div>
 
 ---

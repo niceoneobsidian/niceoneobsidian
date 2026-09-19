@@ -230,8 +230,25 @@ Interested in:
   <a href="https://x.com/NiceoneObsidian">
     <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X">
   </a>
+  <a href="https://www.linkedin.com/in/niceone-obsidian-4515b842a/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+  <a href="https://www.facebook.com/share/1DSuvTP9N5/">
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook">
+  </a>
 </p>
 
+<p align="center">
+  <a href="https://www.tiktok.com/@emenike_niceone">
+    <img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white" alt="TikTok">
+  </a>
+  <a href="https://medium.com/@niceoneobsidian">
+    <img src="https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=white" alt="Medium">
+  </a>
+  <a href="https://dev.to/niceoneobsidian">
+    <img src="https://img.shields.io/badge/DEV.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white" alt="DEV Community">
+  </a>
+</p>
 ---
 
 ## 🐍 Contribution Snake

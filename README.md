@@ -114,17 +114,105 @@ I build AI systems around explicit execution boundaries rather than treating mod
 ## 🧰 Technology Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,typescript,javascript,nodejs,bash,postgres,redis,docker,supabase,git,github,linux,neovim,obsidian,notion,react,graphql,selenium,githubactions" alt="Technology stack" />
+  <sub>Animated technology icons powered by TechStack Generator where available, with Skill Icons used for technologies outside its animated catalog.</sub>
+</p>
+
+### 💻 Languages
+
+<p align="center">
+  <img src="https://techstack-generator.vercel.app/python-icon.svg" width="70" height="70" alt="Python">
+  <img src="https://techstack-generator.vercel.app/js-icon.svg" width="70" height="70" alt="JavaScript">
+  <img src="https://techstack-generator.vercel.app/ts-icon.svg" width="70" height="70" alt="TypeScript">
+  <img src="https://skillicons.dev/icons?i=bash&theme=dark" width="70" height="70" alt="Bash">
 </p>
 
 <p align="center">
-  <img src="https://techstack-generator.vercel.app/python-icon.svg" width="48" height="48" alt="Python">
-  <img src="https://techstack-generator.vercel.app/js-icon.svg" width="48" height="48" alt="JavaScript">
-  <img src="https://techstack-generator.vercel.app/ts-icon.svg" width="48" height="48" alt="TypeScript">
-  <img src="https://techstack-generator.vercel.app/github-icon.svg" width="48" height="48" alt="GitHub">
-  <img src="https://techstack-generator.vercel.app/docker-icon.svg" width="48" height="48" alt="Docker">
-  <img src="https://techstack-generator.vercel.app/aws-icon.svg" width="48" height="48" alt="AWS">
+  <b>Python</b>&nbsp;&nbsp;&nbsp;&nbsp;
+  <b>JavaScript</b>&nbsp;&nbsp;&nbsp;&nbsp;
+  <b>TypeScript</b>&nbsp;&nbsp;&nbsp;&nbsp;
+  <b>Bash</b>
 </p>
+
+### ⚡ Runtime & Application
+
+<p align="center">
+  <img src="https://techstack-generator.vercel.app/nodejs-icon.svg" width="70" height="70" alt="Node.js">
+  <img src="https://techstack-generator.vercel.app/react-icon.svg" width="70" height="70" alt="React">
+  <img src="https://skillicons.dev/icons?i=graphql&theme=dark" width="70" height="70" alt="GraphQL">
+  <img src="https://skillicons.dev/icons?i=selenium&theme=dark" width="70" height="70" alt="Selenium">
+</p>
+
+<p align="center">
+  <b>Node.js</b>&nbsp;&nbsp;&nbsp;&nbsp;
+  <b>React</b>&nbsp;&nbsp;&nbsp;&nbsp;
+  <b>GraphQL</b>&nbsp;&nbsp;&nbsp;&nbsp;
+  <b>Selenium</b>
+</p>
+
+### 🗄️ Data & Backend
+
+<p align="center">
+  <img src="https://techstack-generator.vercel.app/postgresql-icon.svg" width="70" height="70" alt="PostgreSQL">
+  <img src="https://techstack-generator.vercel.app/redis-icon.svg" width="70" height="70" alt="Redis">
+  <img src="https://skillicons.dev/icons?i=supabase&theme=dark" width="70" height="70" alt="Supabase">
+</p>
+
+<p align="center">
+  <b>PostgreSQL</b>&nbsp;&nbsp;&nbsp;&nbsp;
+  <b>Redis</b>&nbsp;&nbsp;&nbsp;&nbsp;
+  <b>Supabase</b>
+</p>
+
+### ☁️ Infrastructure & DevOps
+
+<p align="center">
+  <img src="https://techstack-generator.vercel.app/docker-icon.svg" width="70" height="70" alt="Docker">
+  <img src="https://techstack-generator.vercel.app/github-icon.svg" width="70" height="70" alt="GitHub">
+  <img src="https://techstack-generator.vercel.app/aws-icon.svg" width="70" height="70" alt="AWS">
+  <img src="https://skillicons.dev/icons?i=githubactions&theme=dark" width="70" height="70" alt="GitHub Actions">
+  <img src="https://skillicons.dev/icons?i=linux&theme=dark" width="70" height="70" alt="Linux">
+</p>
+
+<p align="center">
+  <b>Docker</b>&nbsp;&nbsp;&nbsp;&nbsp;
+  <b>GitHub</b>&nbsp;&nbsp;&nbsp;&nbsp;
+  <b>AWS</b>&nbsp;&nbsp;&nbsp;&nbsp;
+  <b>GitHub Actions</b>&nbsp;&nbsp;&nbsp;&nbsp;
+  <b>Linux</b>
+</p>
+
+### 🛠️ Developer Environment
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=git&theme=dark" width="70" height="70" alt="Git">
+  <img src="https://skillicons.dev/icons?i=neovim&theme=dark" width="70" height="70" alt="Neovim">
+  <img src="https://skillicons.dev/icons?i=figma&theme=dark" width="70" height="70" alt="Figma">
+  <img src="https://skillicons.dev/icons?i=vscode&theme=dark" width="70" height="70" alt="VS Code">
+</p>
+
+<p align="center">
+  <b>Git</b>&nbsp;&nbsp;&nbsp;&nbsp;
+  <b>Neovim</b>&nbsp;&nbsp;&nbsp;&nbsp;
+  <b>Figma</b>&nbsp;&nbsp;&nbsp;&nbsp;
+  <b>VS Code</b>
+</p>
+
+### 🧠 AI, Knowledge & Workflow
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=openai&theme=dark" width="70" height="70" alt="OpenAI">
+  <img src="https://skillicons.dev/icons?i=obsidian&theme=dark" width="70" height="70" alt="Obsidian">
+  <img src="https://skillicons.dev/icons?i=notion&theme=dark" width="70" height="70" alt="Notion">
+  <img src="https://skillicons.dev/icons?i=termux&theme=dark" width="70" height="70" alt="Termux">
+</p>
+
+<p align="center">
+  <b>OpenAI</b>&nbsp;&nbsp;&nbsp;&nbsp;
+  <b>Obsidian</b>&nbsp;&nbsp;&nbsp;&nbsp;
+  <b>Notion</b>&nbsp;&nbsp;&nbsp;&nbsp;
+  <b>Termux</b>
+</p>
+
 
 ---
 

@@ -2,6 +2,8 @@
 
 <p align="center"><strong>Senior Software Architect · Technical Lead · AI Systems Builder</strong><br>Designing governed AI systems that turn objectives into controlled, measurable, repeatable outcomes.</p>
 
+<p align="center"><img src="https://komarev.com/ghpvc/?username=niceoneobsidian&style=for-the-badge&color=0e75b6&label=PROFILE+VIEWS" alt="Profile views"></p>
+
 <p align="center"><a href="https://github.com/niceoneobsidian"><img src="https://img.shields.io/badge/GitHub-niceoneobsidian-181717?style=for-the-badge&logo=github" alt="GitHub"></a> <a href="https://github.com/niceoneobsidian/niceone-obsidian"><img src="https://img.shields.io/badge/Featured-OIS%20Obsidian%20Intelligence%20System-111827?style=for-the-badge&logo=python" alt="OIS"></a></p>
 
 ---
@@ -105,7 +107,7 @@ The repository is the source of truth for what is implemented today.
 
 ## 📈 GitHub Activity
 
-<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=niceoneobsidian&show_icons=true&hide_border=true&rank_icon=github&theme=github_dark" alt="GitHub statistics" height=165> <img src="https://github-readme-streak-stats.herokuapp.com/?user=niceoneobsidian&hide_border=true&theme=github-dark-blue" alt="Contribution streak" height=165></p>
+<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=niceoneobsidian&show_icons=true&hide_border=true&rank_icon=github&theme=github_dark" alt="GitHub statistics" height=165> <img src="https://streak-stats.demolab.com/?user=niceoneobsidian&hide_border=true&theme=github-dark-blue" alt="Contribution streak" height=165></p>
 
 <p align="center"><img src="https://github-readme-activity-graph.vercel.app/graph?username=niceoneobsidian&theme=github-compact&hide_border=true&area=true" alt="GitHub activity graph" width=90%></p>
 

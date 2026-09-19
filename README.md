@@ -1,12 +1,40 @@
-<h1 align="center">Hi, I'm Niceone Obsidian 👋</h1>
+# Niceone Obsidian
 
-<p align="center"><strong>Senior Software Architect · Technical Lead · AI Systems Builder</strong><br>Designing governed AI systems that turn objectives into controlled, measurable, repeatable outcomes.</p>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=niceoneobsidian&style=for-the-badge&color=0e75b6&label=PROFILE+VIEWS" alt="Profile views">
+</p>
 
-<p align="center"><img src="https://komarev.com/ghpvc/?username=niceoneobsidian&style=for-the-badge&color=0e75b6&label=PROFILE+VIEWS" alt="Profile views"></p>
+<h1 align="center">AI Systems Architect · Automation Engineer · Open-Source Builder</h1>
 
-<p align="center"><a href="https://github.com/niceoneobsidian"><img src="https://img.shields.io/badge/GitHub-niceoneobsidian-181717?style=for-the-badge&logo=github" alt="GitHub"></a> <a href="https://github.com/niceoneobsidian/niceone-obsidian"><img src="https://img.shields.io/badge/Featured-OIS%20Obsidian%20Intelligence%20System-111827?style=for-the-badge&logo=python" alt="OIS"></a></p>
+<p align="center">
+  Building governed AI systems that turn objectives into controlled, measurable, repeatable outcomes.
+</p>
+
+<p align="center">
+  <a href="https://github.com/niceoneobsidian">
+    <img src="https://img.shields.io/badge/GitHub-niceoneobsidian-181717?style=for-the-badge&logo=github" alt="GitHub">
+  </a>
+  <a href="https://github.com/niceoneobsidian/niceone-obsidian">
+    <img src="https://img.shields.io/badge/Flagship-OIS%20Obsidian%20Intelligence%20System-111827?style=for-the-badge" alt="OIS">
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/niceoneobsidian?tab=followers">
+    <img src="https://img.shields.io/github/followers/niceoneobsidian?label=Followers&style=social" alt="GitHub followers">
+  </a>
+  <a href="https://github.com/niceoneobsidian?tab=repositories&type=source">
+    <img src="https://img.shields.io/github/stars/niceoneobsidian?style=social" alt="GitHub stars">
+  </a>
+</p>
 
 ---
+
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=22&pause=1100&duration=2600&center=true&vCenter=true&width=820&height=45&repeat=true&color=58A6FF&lines=Building+OIS+%E2%80%94+Obsidian+Intelligence+System;AI+Execution+%7C+Governance+%7C+Validation+%7C+Recovery;Think+%E2%86%92+Verify+%E2%86%92+Authorize+%E2%86%92+Act;Measure+%E2%86%92+Learn+%E2%86%92+Evolve" alt="Animated OIS typing banner">
+  </a>
+</p>
 
 ## 🧠 What I'm Building
 
@@ -16,35 +44,36 @@
 
 **Cognition → Policy → Capabilities → Agents → Tools → Models → Execution → Validation → Recovery → Evidence → Measurement → Learning → Controlled Evolution**
 
-The operating loop is: **Think → Verify → Authorize → Act → Validate → Measure → Learn → Evolve**
+**Operating loop:** Think → Verify → Authorize → Act → Validate → Measure → Learn → Evolve
 
-[Explore OIS →](https://github.com/niceoneobsidian/niceone-obsidian)
+<a href="https://github.com/niceoneobsidian/niceone-obsidian">
+  <img src="https://img.shields.io/badge/Explore%20OIS-Repository-111827?style=for-the-badge&logo=github" alt="Explore OIS">
+</a>
 
 ---
 
-## 📊 OIS at a Glance
+## 📊 GitHub Intelligence
 
-```text
-OBJECTIVE
-   ↓
-CONTEXT / RISK
-   ↓
-PLAN
-   ↓
-POLICY / AUTHORIZATION
-   ↓
-CAPABILITY ROUTING
-   ↓
-EXECUTION
-   ↓
-VALIDATION
-   ↓
-EVIDENCE / MEASUREMENT
-   ↓
-FAILURE RECOVERY
-   ↓
-LEARNING / CONTROLLED EVOLUTION
-```
+<p align="center">
+  <a href="https://github.com/ishandutta2007/beautiful-github-homepage">
+    <img src="https://beautiful-github-homepage.vercel.app/api?username=niceoneobsidian&hide_title=true&show_icons=true&theme=transparent&include_all_commits=true" alt="GitHub statistics" height="165">
+  </a>
+  <a href="https://github.com/niceoneobsidian?tab=stars">
+    <img src="https://streak-stats.demolab.com/?user=niceoneobsidian&theme=github-dark-blue&hide_border=true" alt="GitHub contribution streak" height="165">
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/ishandutta2007/beautiful-github-homepage">
+    <img src="https://beautiful-github-homepage.vercel.app/api/top-langs/?username=niceoneobsidian&hide_title=false&layout=compact&theme=transparent&count_private=true" alt="Top languages" height="165">
+  </a>
+</p>
+
+<div align="center">
+  <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=niceoneobsidian&bg_color=00000000&color=8B949E&line=58A6FF&point=FFFFFF&hide_border=true&area=true&area_color=58A6FF" alt="GitHub activity graph" width="96%">
+  </a>
+</div>
 
 ---
 
@@ -66,25 +95,37 @@ I build AI systems around explicit execution boundaries rather than treating mod
 
 | Area | Focus |
 | --- | --- |
-| 🧠 OIS Kernel | Stateful execution, contracts, planning, and orchestration |
-| 🛡️ Control Plane | Policy, authorization, routing, and lifecycle governance |
+| 🧠 OIS Kernel | Stateful execution, contracts, planning, orchestration |
+| 🛡️ Control Plane | Policy, authorization, routing, lifecycle governance |
 | 🧩 Capability Fabric | Capability, agent, tool, and workflow registries |
-| ⚙️ Runtime | Durable execution, checkpoints, idempotency, and recovery |
+| ⚙️ Runtime | Durable execution, checkpoints, idempotency, recovery |
 | ✅ Validation | Outcome verification and append-only execution evidence |
-| 📈 Observability | Telemetry, traces, metrics, and operational evidence |
-| 🗃️ Knowledge | Context, memory, retrieval, and semantic state |
-| ♻️ Evolution | Measurement, evaluation, promotion, and rollback |
-| 📣 Social Intelligence | Content intelligence, growth systems, and experimentation |
+| 📈 Observability | Telemetry, traces, metrics, operational evidence |
+| 🗃️ Knowledge | Context, memory, retrieval, semantic state |
+| ♻️ Evolution | Measurement, evaluation, promotion, rollback |
+| 📣 Social Intelligence | Content intelligence, growth systems, experimentation |
+
+---
+
+## 🧰 Technology Stack
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,typescript,javascript,nodejs,bash,postgres,redis,docker,supabase,git,github,linux,neovim" alt="Technology stack" />
+</p>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=obsidian,notion,react,graphql,selenium,githubactions" alt="Development and workflow tools" />
+</p>
 
 ---
 
 ## 🚀 Featured Work
 
-### [OIS — Obsidian Intelligence System](https://github.com/niceoneobsidian/niceone-obsidian)
+### <a href="https://github.com/niceoneobsidian/niceone-obsidian">OIS — Obsidian Intelligence System</a>
 
 **Governed, stateful, capability-driven AI execution and intelligence platform.**
 
-Current engineering themes include:
+Current engineering themes:
 
 - Explicit execution state transitions
 - Durable PostgreSQL-backed execution state
@@ -93,39 +134,13 @@ Current engineering themes include:
 - Bounded retry and recovery decisions
 - Migration validation and integration testing
 - Conformance tests for recovery and governance
-- Ruff, Mypy, Bandit, and pytest quality gates
+- Quality gates and operational verification
 
-The repository is the source of truth for what is implemented today.
-
----
-
-<p align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1100&center=true&vCenter=true&width=760&lines=Building+OIS+%E2%80%94+Obsidian+Intelligence+System;AI+Execution+%7C+Governance+%7C+Validation+%7C+Recovery;Think+%E2%86%92+Verify+%E2%86%92+Authorize+%E2%86%92+Act+%E2%86%92+Validate;Measure+%E2%86%92+Learn+%E2%86%92+Evolve" alt="Animated OIS typing banner">
-  </a>
-</p>
-
-## 📈 GitHub Activity
-
-<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=niceoneobsidian&show_icons=true&hide_border=true&rank_icon=github&theme=github_dark" alt="GitHub statistics" height=165> <img src="https://streak-stats.demolab.com/?user=niceoneobsidian&hide_border=true&theme=github-dark-blue" alt="Contribution streak" height=165></p>
-
-<p align="center"><img src="https://github-readme-activity-graph.vercel.app/graph?username=niceoneobsidian&theme=github-compact&hide_border=true&area=true" alt="GitHub activity graph" width=90%></p>
+The OIS repository remains the source of truth for implementation status.
 
 ---
 
-## 🧰 Technology
-
-### Languages & Runtime
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-336791?style=flat-square&logo=postgresql&logoColor=white) ![Bash](https://img.shields.io/badge/Bash-121011?style=flat-square&logo=gnubash&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
-
-### Data, Infrastructure & Quality
-
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white) ![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) ![OpenTelemetry](https://img.shields.io/badge/OpenTelemetry-000000?style=flat-square&logo=opentelemetry&logoColor=white) ![Pytest](https://img.shields.io/badge/Pytest-0A9EDC?style=flat-square&logo=pytest&logoColor=white) ![Ruff](https://img.shields.io/badge/Ruff-D7FF64?style=flat-square&logo=ruff&logoColor=black) ![Mypy](https://img.shields.io/badge/Mypy-1674B1?style=flat-square&logo=python&logoColor=white)
-
----
-
-## 🔭 Research & Systems I Explore
+## 🔭 Research & Systems
 
 - Agentic AI architectures
 - Capability-driven systems
@@ -141,16 +156,28 @@ The repository is the source of truth for what is implemented today.
 
 ## 🤝 Collaboration
 
-Interested in AI infrastructure, agent and execution systems, automation, developer tooling, reliable and observable AI, governance, authorization, and open-source AI systems.
+Interested in:
+
+- AI infrastructure
+- Agent and execution systems
+- Automation
+- Developer tooling
+- Reliable and observable AI
+- Governance and authorization
+- Open-source AI systems
 
 ---
 
 ## 🔗 Connect
 
-<p align="center"><a href="https://github.com/niceoneobsidian"><img src="https://img.shields.io/badge/GitHub-niceoneobsidian-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a> <a href="https://x.com/NiceoneObsidian"><img src="https://img.shields.io/badge/X-@NiceoneObsidian-000000?style=for-the-badge&logo=x&logoColor=white" alt="X"></a></p>
-
-<p align="center"><sub>Think deeply · Verify everything · Authorize before acting · Execute precisely · Validate outcomes · Learn from evidence</sub></p>
-
+<p align="center">
+  <a href="https://github.com/niceoneobsidian">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+  </a>
+  <a href="https://x.com/NiceoneObsidian">
+    <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X">
+  </a>
+</p>
 
 ---
 
@@ -162,4 +189,8 @@ Interested in AI infrastructure, agent and execution systems, automation, develo
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/niceoneobsidian/niceoneobsidian/output/github-contribution-grid-snake.svg">
     <img src="https://raw.githubusercontent.com/niceoneobsidian/niceoneobsidian/output/github-contribution-grid-snake.svg" alt="Animated GitHub contribution snake" width="100%">
   </picture>
+</p>
+
+<p align="center">
+  <sub>Think deeply · Verify everything · Authorize before acting · Execute precisely · Validate outcomes · Learn from evidence</sub>
 </p>

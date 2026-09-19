@@ -113,17 +113,13 @@ I build AI systems around explicit execution boundaries rather than treating mod
 
 ## 🧰 Technology Stack
 
-<p align="center">
-  <sub>Animated technology icons powered by TechStack Generator where available, with Skill Icons used for technologies outside its animated catalog.</sub>
-</p>
-
 ### 💻 Languages
 
 <p align="center">
-  <img src="https://techstack-generator.vercel.app/python-icon.svg" width="70" height="70" alt="Python">
-  <img src="https://techstack-generator.vercel.app/js-icon.svg" width="70" height="70" alt="JavaScript">
-  <img src="https://techstack-generator.vercel.app/ts-icon.svg" width="70" height="70" alt="TypeScript">
-  <img src="https://skillicons.dev/icons?i=bash&theme=dark" width="70" height="70" alt="Bash">
+  <img src="https://techstack-generator.vercel.app/python-icon.svg" width="80" height="80" alt="Python">
+  <img src="https://techstack-generator.vercel.app/js-icon.svg" width="80" height="80" alt="JavaScript">
+  <img src="https://techstack-generator.vercel.app/ts-icon.svg" width="80" height="80" alt="TypeScript">
+  <img src="https://skillicons.dev/icons?i=bash&theme=dark" width="80" height="80" alt="Bash">
 </p>
 
 <p align="center">
@@ -136,10 +132,7 @@ I build AI systems around explicit execution boundaries rather than treating mod
 ### ⚡ Runtime & Application
 
 <p align="center">
-  <img src="https://techstack-generator.vercel.app/nodejs-icon.svg" width="70" height="70" alt="Node.js">
-  <img src="https://techstack-generator.vercel.app/react-icon.svg" width="70" height="70" alt="React">
-  <img src="https://skillicons.dev/icons?i=graphql&theme=dark" width="70" height="70" alt="GraphQL">
-  <img src="https://skillicons.dev/icons?i=selenium&theme=dark" width="70" height="70" alt="Selenium">
+  <img src="https://skillicons.dev/icons?i=nodejs,react,graphql,selenium&theme=dark&perline=4" height="80" alt="Runtime and application technologies">
 </p>
 
 <p align="center">
@@ -152,9 +145,7 @@ I build AI systems around explicit execution boundaries rather than treating mod
 ### 🗄️ Data & Backend
 
 <p align="center">
-  <img src="https://techstack-generator.vercel.app/postgresql-icon.svg" width="70" height="70" alt="PostgreSQL">
-  <img src="https://techstack-generator.vercel.app/redis-icon.svg" width="70" height="70" alt="Redis">
-  <img src="https://skillicons.dev/icons?i=supabase&theme=dark" width="70" height="70" alt="Supabase">
+  <img src="https://skillicons.dev/icons?i=postgres,redis,supabase&theme=dark&perline=3" height="80" alt="Data and backend technologies">
 </p>
 
 <p align="center">
@@ -166,11 +157,10 @@ I build AI systems around explicit execution boundaries rather than treating mod
 ### ☁️ Infrastructure & DevOps
 
 <p align="center">
-  <img src="https://techstack-generator.vercel.app/docker-icon.svg" width="70" height="70" alt="Docker">
-  <img src="https://techstack-generator.vercel.app/github-icon.svg" width="70" height="70" alt="GitHub">
-  <img src="https://techstack-generator.vercel.app/aws-icon.svg" width="70" height="70" alt="AWS">
-  <img src="https://skillicons.dev/icons?i=githubactions&theme=dark" width="70" height="70" alt="GitHub Actions">
-  <img src="https://skillicons.dev/icons?i=linux&theme=dark" width="70" height="70" alt="Linux">
+  <img src="https://techstack-generator.vercel.app/docker-icon.svg" width="80" height="80" alt="Docker">
+  <img src="https://techstack-generator.vercel.app/github-icon.svg" width="80" height="80" alt="GitHub">
+  <img src="https://techstack-generator.vercel.app/aws-icon.svg" width="80" height="80" alt="AWS">
+  <img src="https://skillicons.dev/icons?i=githubactions,linux&theme=dark&perline=2" height="80" alt="GitHub Actions and Linux">
 </p>
 
 <p align="center">
@@ -184,10 +174,7 @@ I build AI systems around explicit execution boundaries rather than treating mod
 ### 🛠️ Developer Environment
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=git&theme=dark" width="70" height="70" alt="Git">
-  <img src="https://skillicons.dev/icons?i=neovim&theme=dark" width="70" height="70" alt="Neovim">
-  <img src="https://skillicons.dev/icons?i=figma&theme=dark" width="70" height="70" alt="Figma">
-  <img src="https://skillicons.dev/icons?i=vscode&theme=dark" width="70" height="70" alt="VS Code">
+  <img src="https://skillicons.dev/icons?i=git,neovim,figma,vscode&theme=dark&perline=4" height="80" alt="Developer environment">
 </p>
 
 <p align="center">
@@ -200,10 +187,9 @@ I build AI systems around explicit execution boundaries rather than treating mod
 ### 🧠 AI, Knowledge & Workflow
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=openai&theme=dark" width="70" height="70" alt="OpenAI">
-  <img src="https://skillicons.dev/icons?i=obsidian&theme=dark" width="70" height="70" alt="Obsidian">
-  <img src="https://skillicons.dev/icons?i=notion&theme=dark" width="70" height="70" alt="Notion">
-  <img src="https://skillicons.dev/icons?i=termux&theme=dark" width="70" height="70" alt="Termux">
+  <img src="https://skillicons.dev/icons?i=obsidian,notion&theme=dark&perline=2" height="80" alt="Obsidian and Notion">
+  <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" height="40" alt="OpenAI">
+  <img src="https://img.shields.io/badge/Termux-000000?style=for-the-badge&logo=termux&logoColor=white" height="40" alt="Termux">
 </p>
 
 <p align="center">
@@ -212,7 +198,6 @@ I build AI systems around explicit execution boundaries rather than treating mod
   <b>Notion</b>&nbsp;&nbsp;&nbsp;&nbsp;
   <b>Termux</b>
 </p>
-
 
 ---
 

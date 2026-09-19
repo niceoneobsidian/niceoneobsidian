@@ -31,6 +31,10 @@
 ---
 
 <p align="center">
+  <img src="./assets/ois-chat.svg" alt="Animated OIS system visual" width="900">
+</p>
+
+<p align="center">
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=22&pause=1100&duration=2600&center=true&vCenter=true&width=820&height=45&repeat=true&color=58A6FF&lines=Building+OIS+%E2%80%94+Obsidian+Intelligence+System;AI+Execution+%7C+Governance+%7C+Validation+%7C+Recovery;Think+%E2%86%92+Verify+%E2%86%92+Authorize+%E2%86%92+Act;Measure+%E2%86%92+Learn+%E2%86%92+Evolve" alt="Animated OIS typing banner">
   </a>
@@ -110,11 +114,16 @@ I build AI systems around explicit execution boundaries rather than treating mod
 ## 🧰 Technology Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,typescript,javascript,nodejs,bash,postgres,redis,docker,supabase,git,github,linux,neovim" alt="Technology stack" />
+  <img src="https://skillicons.dev/icons?i=python,typescript,javascript,nodejs,bash,postgres,redis,docker,supabase,git,github,linux,neovim,obsidian,notion,react,graphql,selenium,githubactions" alt="Technology stack" />
 </p>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=obsidian,notion,react,graphql,selenium,githubactions" alt="Development and workflow tools" />
+  <img src="https://techstack-generator.vercel.app/python-icon.svg" width="48" height="48" alt="Python">
+  <img src="https://techstack-generator.vercel.app/js-icon.svg" width="48" height="48" alt="JavaScript">
+  <img src="https://techstack-generator.vercel.app/ts-icon.svg" width="48" height="48" alt="TypeScript">
+  <img src="https://techstack-generator.vercel.app/github-icon.svg" width="48" height="48" alt="GitHub">
+  <img src="https://techstack-generator.vercel.app/docker-icon.svg" width="48" height="48" alt="Docker">
+  <img src="https://techstack-generator.vercel.app/aws-icon.svg" width="48" height="48" alt="AWS">
 </p>
 
 ---
@@ -189,6 +198,10 @@ Interested in:
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/niceoneobsidian/niceoneobsidian/output/github-contribution-grid-snake.svg">
     <img src="https://raw.githubusercontent.com/niceoneobsidian/niceoneobsidian/output/github-contribution-grid-snake.svg" alt="Animated GitHub contribution snake" width="100%">
   </picture>
+</p>
+
+<p align="center">
+  <sub>Generated automatically by GitHub Actions from the contribution graph.</sub>
 </p>
 
 <p align="center">

@@ -1,284 +1,124 @@
 # Niceone Obsidian
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=niceoneobsidian&style=for-the-badge&color=0e75b6&label=PROFILE+VIEWS" alt="Profile views">
+  <img src="./assets/ois-chat.svg" alt="Obsidian Intelligence System architecture visual" width="900">
 </p>
 
-<h1 align="center">Software Developer · AI Systems Architect · Automation Engineer</h1>
+<h2 align="center">AI Systems Architect · Software Developer · Automation Engineer</h2>
 
 <p align="center">
-  Building reliable, governed AI systems that turn objectives into controlled, measurable, repeatable outcomes.<br>
-  <b>Think deeply · Architect clearly · Build reliably.</b>
-</p>
-
-<p align="center">
-  <a href="https://github.com/niceoneobsidian">
-    <img src="https://img.shields.io/badge/GitHub-niceoneobsidian-181717?style=for-the-badge&logo=github" alt="GitHub">
-  </a>
-  <a href="https://github.com/niceoneobsidian/niceone-obsidian">
-    <img src="https://img.shields.io/badge/Flagship-OIS%20Obsidian%20Intelligence%20System-111827?style=for-the-badge" alt="OIS">
-  </a>
+  Building governed AI systems, reliable agent workflows, and evidence-driven software.
+  <br>
+  <strong>Think → Verify → Authorize → Execute → Validate → Learn</strong>
 </p>
 
 <p align="center">
-  <a href="https://github.com/niceoneobsidian?tab=followers">
-    <img src="https://img.shields.io/github/followers/niceoneobsidian?label=Followers&style=social" alt="GitHub followers">
-  </a>
-  <a href="https://github.com/niceoneobsidian?tab=repositories&type=source">
-    <img src="https://img.shields.io/github/stars/niceoneobsidian?style=social" alt="GitHub stars">
-  </a>
+  <a href="https://github.com/niceoneobsidian/niceone-obsidian">Flagship: OIS</a> ·
+  <a href="https://github.com/niceoneobsidian/universal-social-intelligence">USIE</a> ·
+  <a href="https://github.com/niceoneobsidian/niceone-engineering-governance">Engineering Governance</a>
 </p>
 
 ---
 
-<p align="center">
-  <img src="./assets/ois-chat.svg" alt="Animated OIS system visual" width="900">
-</p>
+## Profile
 
-<p align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=22&pause=1100&duration=2600&center=true&vCenter=true&width=820&height=45&repeat=true&color=58A6FF&lines=Building+OIS+%E2%80%94+Obsidian+Intelligence+System;AI+Execution+%7C+Governance+%7C+Validation+%7C+Recovery;Think+%E2%86%92+Verify+%E2%86%92+Authorize+%E2%86%92+Act;Measure+%E2%86%92+Learn+%E2%86%92+Evolve" alt="Animated OIS typing banner">
-  </a>
-</p>
+My work focuses on the architecture and implementation of AI execution systems: agent orchestration, policy boundaries, durable state, verification, recovery, knowledge and memory, social intelligence, and engineering governance.
 
-## 👋 About Me
+The central design rule is simple: **a model's output is a proposal, not permission or proof of success.** Systems should authorize consequential actions, verify outcomes independently, preserve evidence, and recover safely from failure.
 
-I am a **Software Developer, AI Systems Architect, and Automation Engineer** focused on building reliable intelligent systems.
+## Current Project Portfolio
 
-My work sits at the intersection of **AI agents, system architecture, automation, durable execution, verification, and production engineering**. I learn by building real systems, testing assumptions, and turning architecture into working software.
+| Project | Purpose | Current status |
+|---|---|---|
+| **[OIS — Obsidian Intelligence System](https://github.com/niceoneobsidian/niceone-obsidian)** | Governed AI execution platform spanning cognition, planning, capabilities, agents, tools, policy, runtime, validation, recovery, evidence, and learning. | **Core platform in active engineering.** Repository documentation defines architecture and evidence-based maturity gates; production readiness must be established through implementation and runtime evidence, not design alone. |
+| **[Universal Social Intelligence Engine (USIE)](https://github.com/niceoneobsidian/universal-social-intelligence)** | Evidence-first collection and capture pipeline for social/web URLs, with provenance and explicit collection statuses. | **P0 complete; P1 extraction foundations in progress.** The generic metadata adapter reads saved DOM evidence; it is not a platform-specific extractor and the project is not production-certified. |
+| **[Niceone Engineering Governance (NUEGS)](https://github.com/niceoneobsidian/niceone-engineering-governance)** | Versioned engineering governance specification, control registry, repository profiles, validation tooling, and adoption guidance. | **Initial proposed baseline.** Includes 20 engineering domains and profiles for OIS and AI agents. No repository is presumed compliant without evidence. |
+| **Obsidian Project Intelligence (OPI)** | Project/task management and execution-intelligence layer that delegates governed execution to OIS and orchestration to Agent Weave. | **Application pilot / integration work.** Package, focused tests, integration contract, packaging metadata, and CI have been extracted. Durable runtime wiring, end-to-end validation, deployment, and operational readiness remain open milestones. |
+| **Niceone Agent Weave** | Local-first agent orchestration that checks changes independently, enforces command policy, records evidence, and supports file-based project memory. | **Phased implementation.** Published project documentation describes verification/evidence, policy and bounded recovery, and file-based memory. Isolation and research/event capabilities remain planned there. |
+| **Niceone Command** | Command-line interface and developer workflow tooling for the Niceone ecosystem. | **Active development.** See the repository for current implementation and verification status. |
+| **Niceone CLI** | Additional command-line tooling. | **Private repository / in development.** Details are intentionally not represented as public release claims. |
 
-> **Think deeply · Architect clearly · Build reliably.**
+> **Status discipline:** Project summaries reflect repository documentation available at the time this profile was updated. They are not a substitute for the latest CI results, open issues, runtime checks, or release evidence.
 
----
+## System Architecture
 
-## 🧠 What I'm Building
+The Niceone ecosystem separates responsibilities rather than building one monolith:
 
-### OIS — Obsidian Intelligence System
+- **OIS — governance and execution:** policy, authorization, durable execution, validation, recovery, and evidence.
+- **Agent Weave — agent orchestration:** delegates coding work and checks whether the result satisfies independent verification criteria.
+- **OPI — project intelligence:** task lifecycle, plans, operator workflow, and cross-system reporting.
+- **USIE — social/web evidence ingestion:** captures source evidence and records collection outcomes before downstream interpretation.
+- **NUEGS — engineering governance:** defines reusable controls, profiles, and verification expectations across repositories.
 
-> A capability-driven AI intelligence and execution system designed to turn objectives into controlled, measurable, repeatable outcomes.
+```text
+OBJECTIVE
+   ↓
+PROJECT INTELLIGENCE / PLANNING
+   ↓
+POLICY + AUTHORIZATION (OIS)
+   ↓
+CAPABILITY / AGENT / TOOL ROUTING
+   ↓
+EXECUTION
+   ↓
+INDEPENDENT VALIDATION
+   ↓
+STATE + EVIDENCE + OBSERVABILITY
+   ↓
+MEASUREMENT → LEARNING → CONTROLLED CHANGE
+```
 
-**Cognition → Policy → Capabilities → Agents → Tools → Models → Execution → Validation → Recovery → Evidence → Measurement → Learning → Controlled Evolution**
+## Engineering Principles
 
-**Operating loop:** Think → Verify → Authorize → Act → Validate → Measure → Learn → Evolve
+- Reasoning does not grant authority.
+- Architecture does not prove implementation.
+- A successful command is not automatically a successful outcome.
+- Missing required checks are not passes.
+- Evidence must preserve provenance and uncertainty.
+- Retries must be bounded; recovery must avoid unsafe repetition.
+- Credentials and sensitive local state stay out of source control.
+- Production changes must be observable, versioned, and reversible.
+- Learning may propose changes; governance controls promotion.
 
-<a href="https://github.com/niceoneobsidian/niceone-obsidian">
-  <img src="https://img.shields.io/badge/Explore%20OIS-Repository-111827?style=for-the-badge&logo=github" alt="Explore OIS">
-</a>
+## Technical Focus
 
----
+**Languages and automation:** Python, TypeScript, JavaScript, Bash  
+**AI systems:** local models, agent orchestration, model routing, structured outputs, memory and retrieval  
+**Backend and state:** SQL, PostgreSQL-oriented execution state, SQLite, durable workflows, idempotency  
+**Quality and security:** unit/integration testing, linting, type checking, policy gates, secret hygiene, evidence-based acceptance  
+**Developer infrastructure:** Git, GitHub, GitHub Actions, Linux, macOS, terminal-first workflows  
+**Knowledge and design:** Obsidian, Notion, system architecture, capability contracts, governance specifications  
+**Intelligence systems:** social/web collection, metadata extraction, provenance, content intelligence, analytics and feedback loops
 
-## 📊 GitHub Intelligence
+*This is a working technology focus, not a claim of equal production expertise in every tool.*
 
-<p align="center">
-  <a href="https://github.com/ishandutta2007/beautiful-github-homepage">
-    <img src="https://beautiful-github-homepage.vercel.app/api?username=niceoneobsidian&hide_title=true&show_icons=true&theme=transparent&include_all_commits=true" alt="GitHub statistics" height="165">
-  </a>
-  <a href="https://github.com/niceoneobsidian?tab=stars">
-    <img src="https://streak-stats.demolab.com/?user=niceoneobsidian&theme=github-dark-blue&hide_border=true" alt="GitHub contribution streak" height="165">
-  </a>
-</p>
+## Current Engineering Priorities
 
-<p align="center">
-  <a href="https://github.com/ishandutta2007/beautiful-github-homepage">
-    <img src="https://beautiful-github-homepage.vercel.app/api/top-langs/?username=niceoneobsidian&hide_title=false&layout=compact&theme=transparent&count_private=true" alt="Top languages" height="165">
-  </a>
-</p>
+1. **Prove OIS runtime readiness** with test, persistence, authorization, recovery, migration, security, and deployment evidence.
+2. **Keep project boundaries explicit** across OIS, OPI, Agent Weave, and USIE; integrate through stable contracts.
+3. **Strengthen evidence-first ingestion** in USIE while preserving honest status semantics for blocked, partial, unavailable, and failed captures.
+4. **Apply engineering governance** through machine-checkable registries, repository profiles, tests, and CI—not documentation alone.
+5. **Improve local-first AI development** while controlling resource use, costs, and permissions.
+6. **Build measurable feedback loops** so system changes are evaluated against observed outcomes.
 
-<div align="center">
-  <img src="https://raw.githubusercontent.com/niceoneobsidian/niceoneobsidian/output/activity-graph.svg" alt="GitHub activity graph" width="96%">
-</div>
+## Explore the Work
 
----
+- [OIS source repository](https://github.com/niceoneobsidian/niceone-obsidian)
+- [USIE source repository](https://github.com/niceoneobsidian/universal-social-intelligence)
+- [Engineering governance specification](https://github.com/niceoneobsidian/niceone-engineering-governance)
+- [All public repositories](https://github.com/niceoneobsidian?tab=repositories)
+- [GitHub profile and activity](https://github.com/niceoneobsidian)
 
-## 🏗️ Engineering Philosophy
+## Connect
 
-I build AI systems around explicit execution boundaries rather than treating model output as authority.
-
-- **Reasoning is not authorization**
-- **Architecture is not implementation**
-- **Execution is not success**
-- **Evidence precedes promotion**
-- **Failures must be recoverable**
-- **Production change must be measurable and reversible**
-- **Learning must be grounded in observed outcomes**
-
----
-
-## 🔬 Current Focus
-
-| Area | Focus |
-| --- | --- |
-| 🧠 OIS Kernel | Stateful execution, contracts, planning, orchestration |
-| 🛡️ Control Plane | Policy, authorization, routing, lifecycle governance |
-| 🧩 Capability Fabric | Capability, agent, tool, and workflow registries |
-| ⚙️ Runtime | Durable execution, checkpoints, idempotency, recovery |
-| ✅ Validation | Outcome verification and append-only execution evidence |
-| 📈 Observability | Telemetry, traces, metrics, operational evidence |
-| 🗃️ Knowledge | Context, memory, retrieval, semantic state |
-| ♻️ Evolution | Measurement, evaluation, promotion, rollback |
-| 📣 Social Intelligence | Content intelligence, growth systems, experimentation |
-
----
-
-## 🧰 Technology Stack
-
-<table align="center">
-  <tr>
-    <th>💻 Languages</th>
-    <th>⚡ Runtime & Application</th>
-  </tr>
-  <tr>
-    <td align="center">
-      <img src="https://techstack-generator.vercel.app/python-icon.svg" width="70" height="70" alt="Python">
-      <img src="https://techstack-generator.vercel.app/js-icon.svg" width="70" height="70" alt="JavaScript">
-      <img src="https://techstack-generator.vercel.app/ts-icon.svg" width="70" height="70" alt="TypeScript">
-      <img src="https://skillicons.dev/icons?i=bash&theme=dark" width="70" height="70" alt="Bash">
-      <br><br>
-      <b>Python · JavaScript · TypeScript · Bash</b>
-    </td>
-    <td align="center">
-      <img src="https://skillicons.dev/icons?i=nodejs,react,graphql,selenium&theme=dark&perline=4" height="70" alt="Node.js, React, GraphQL, Selenium">
-      <br><br>
-      <b>Node.js · React · GraphQL · Selenium</b>
-    </td>
-  </tr>
-  <tr>
-    <th>🗄️ Data & Backend</th>
-    <th>☁️ Infrastructure & DevOps</th>
-  </tr>
-  <tr>
-    <td align="center">
-      <img src="https://skillicons.dev/icons?i=postgres,redis,supabase&theme=dark&perline=3" height="70" alt="PostgreSQL, Redis, Supabase">
-      <br><br>
-      <b>PostgreSQL · Redis · Supabase</b>
-    </td>
-    <td align="center">
-      <img src="https://techstack-generator.vercel.app/docker-icon.svg" width="70" height="70" alt="Docker">
-      <img src="https://techstack-generator.vercel.app/github-icon.svg" width="70" height="70" alt="GitHub">
-      <img src="https://techstack-generator.vercel.app/aws-icon.svg" width="70" height="70" alt="AWS">
-      <img src="https://skillicons.dev/icons?i=githubactions,linux&theme=dark&perline=2" height="70" alt="GitHub Actions, Linux">
-      <br><br>
-      <b>Docker · GitHub · AWS · GitHub Actions · Linux</b>
-    </td>
-  </tr>
-  <tr>
-    <th>🛠️ Developer Environment</th>
-    <th>🧠 AI, Knowledge & Workflow</th>
-  </tr>
-  <tr>
-    <td align="center">
-      <img src="https://skillicons.dev/icons?i=git,neovim,figma,vscode&theme=dark&perline=4" height="70" alt="Git, Neovim, Figma, VS Code">
-      <br><br>
-      <b>Git · Neovim · Figma · VS Code</b>
-    </td>
-    <td align="center">
-      <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" height="36" alt="OpenAI">
-      <img src="https://skillicons.dev/icons?i=obsidian&theme=dark" height="55" alt="Obsidian">
-      <img src="https://skillicons.dev/icons?i=notion&theme=dark" height="55" alt="Notion">
-      <img src="https://img.shields.io/badge/Termux-000000?style=for-the-badge&logo=termux&logoColor=white" height="36" alt="Termux">
-      <br><br>
-      <b>OpenAI · Obsidian · Notion · Termux</b>
-    </td>
-  </tr>
-</table>
----
-
-## 🚀 Featured Work
-
-### <a href="https://github.com/niceoneobsidian/niceone-obsidian">OIS — Obsidian Intelligence System</a>
-
-**Governed, stateful, capability-driven AI execution and intelligence platform.**
-
-Current engineering themes:
-
-- Explicit execution state transitions
-- Durable PostgreSQL-backed execution state
-- Idempotency protection
-- Append-only evidence and database safeguards
-- Bounded retry and recovery decisions
-- Migration validation and integration testing
-- Conformance tests for recovery and governance
-- Quality gates and operational verification
-
-The OIS repository remains the source of truth for implementation status.
+- [X](https://x.com/NiceoneObsidian)
+- [LinkedIn](https://www.linkedin.com/in/niceone-obsidian-4515b842a/)
+- [DEV Community](https://dev.to/niceoneobsidian)
+- [Medium](https://medium.com/@niceoneobsidian)
+- [Email](mailto:niceoneobsidian@gmail.com)
 
 ---
-
-## 🔭 Research & Systems
-
-- Agentic AI architectures
-- Capability-driven systems
-- Durable execution and recovery
-- AI memory and retrieval
-- Evaluation and verification
-- Observability and measurement
-- Social intelligence and growth systems
-- Controlled AI system evolution
-- Developer tooling and automation
-
----
-
-## 🤝 Collaboration
-
-Interested in:
-
-- AI infrastructure
-- Agent and execution systems
-- Automation
-- Developer tooling
-- Reliable and observable AI
-- Governance and authorization
-- Open-source AI systems
-
----
-
-## 🔗 Connect
 
 <p align="center">
-  <a href="https://github.com/niceoneobsidian">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
-  </a>
-  <a href="https://x.com/NiceoneObsidian">
-    <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X">
-  </a>
-  <a href="https://www.linkedin.com/in/niceone-obsidian-4515b842a/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
-  </a>
-  <a href="https://www.facebook.com/share/1DSuvTP9N5/">
-    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook">
-  </a>
-  <a href="mailto:niceoneobsidian@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://www.tiktok.com/@emenike_niceone">
-    <img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white" alt="TikTok">
-  </a>
-  <a href="https://medium.com/@niceoneobsidian">
-    <img src="https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=white" alt="Medium">
-  </a>
-  <a href="https://dev.to/niceoneobsidian">
-    <img src="https://img.shields.io/badge/DEV.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white" alt="DEV Community">
-  </a>
-</p>
----
-
-## 🐍 Contribution Snake
-
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/niceoneobsidian/niceoneobsidian/snake-output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/niceoneobsidian/niceoneobsidian/snake-output/github-contribution-grid-snake.svg">
-    <img src="https://raw.githubusercontent.com/niceoneobsidian/niceoneobsidian/snake-output/github-contribution-grid-snake.svg" alt="Animated GitHub contribution snake" width="100%">
-  </picture>
-</p>
-
-<p align="center">
-  <sub>Generated automatically by GitHub Actions from the contribution graph.</sub>
-</p>
-
-<p align="center">
-  <sub>Think deeply · Verify everything · Authorize before acting · Execute precisely · Validate outcomes · Learn from evidence</sub>
+  <sub>Build deliberately. Verify independently. Preserve evidence. Improve from results.</sub>
 </p>
